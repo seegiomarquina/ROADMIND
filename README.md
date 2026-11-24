@@ -220,11 +220,6 @@ Python | Computer Vision | Object Detection | Multi-Object Tracking | YOLOv8 | B
 
 ##  Project Information
 
-**Project:** RoadMind AI  
-**Challenge:** Day 13 — Data Science & AI Portfolio Challenge  
-**Development Environment:** Google Colab  
-**Domain:** Automotive AI / Intelligent Transportation Systems
-
 ---
 
 ##  Disclaimer
